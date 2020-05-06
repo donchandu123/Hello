@@ -4,8 +4,7 @@ public class AddController {
 
 	public String HelloAdmin()
 	{
+		return "Hello Shubham Your Code ius ready for commit";
 		
-		Shubham A=new ASuhjbahb();
-		return "Hello Admin";
 	}
 }
